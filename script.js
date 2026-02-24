@@ -35,13 +35,12 @@ const database = {
                 touch-action="pan-y">
             </model-viewer>
 
+            <img src="assets/Practica2.png" alt="Render 2">
+            <img src="assets/MAS5.png" alt="Render 2">
             <img src="assets/Untitled.png" alt="Render 1">
             <img src="assets/Untitled2.png" alt="Render 2">
             <img src="assets/Untitled3.png" alt="Render 3">
-            <img src="assets/Untitled4.png" alt="Render 4">
-            <img src="assets/Untitled5.png" alt="Render 5">
-            <img src="assets/Practica2.png" alt="Render 2">
-            <img src="assets/MAS5.png" alt="Render 2">
+            <img src="assets/SALON_5.png" alt="Render 4">
         `
     }
 };
