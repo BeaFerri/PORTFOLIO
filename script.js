@@ -35,6 +35,8 @@ const database = {
                 touch-action="pan-y">
             </model-viewer>
 
+            <img src="assets/Captura de pantalla 2026-03-26 235301.png" alt="Render 6">
+            <img src="assets/ballendassdas.png" alt="Render 5">
             <img src="assets/Practica2.png" alt="Render 2">
             <img src="assets/MAS5.png" alt="Render 2">
             <img src="assets/Untitled.png" alt="Render 1">
